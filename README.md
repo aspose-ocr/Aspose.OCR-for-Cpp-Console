@@ -1,0 +1,1 @@
+# Aspose.OCR-for-Cpp-Console
